@@ -4,10 +4,10 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 ## Tutorial
 
-You can find the full tutorial at https://gc-codes.com
+You can find the full tutorial at [https://gc-codes.com](https://gc-codes.com/reactjs/2020/04/responsive-fast-primary-navigation-menu-for-reactjs-application/)
 
 ## Demo
-The demo is available at [https://stackblitz.com](https://stackblitz.com/edit/react-wmpawq)
+The demo is available here at [CodeSandbox](https://codesandbox.io/s/github/gc-codes/react-responsive-navigation-bar)
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/#)
